@@ -68,8 +68,8 @@ sentiment_analysis_tool/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sentiment_analysis_tool.git
-   cd sentiment_analysis_tool
+   git clone https://github.com/Web3snipe/sentiment-analysis.git
+   cd sentiment-analysis
    ```
 
 2. Create and activate a virtual environment:
